@@ -1,0 +1,3 @@
+preliminary model.xlxs: this excel file contains preliminary data with which a simple LP model can use.
+supply_demand.xlxs: this excel file contains our final model data, keep it in the same directory with our python file.
+6205Project.ipynb : this is our code file.
